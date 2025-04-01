@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sshivi21/DSA-questions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Sshivi21/DSA-questions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Sshivi21/DSA-questions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Sshivi21/DSA-questions/tree/master/0200-number-of-islands) |
 ## Sorting
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sshivi21/DSA-questions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sshivi21/DSA-questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sshivi21/DSA-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
