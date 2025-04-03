@@ -54,9 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sshivi21/DSA-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sshivi21/DSA-questions/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/Sshivi21/DSA-questions/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sshivi21/DSA-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sshivi21/DSA-questions/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/Sshivi21/DSA-questions/tree/master/0800-letter-case-permutation) |
+## String
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/Sshivi21/DSA-questions/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
