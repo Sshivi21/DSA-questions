@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sshivi21/DSA-questions/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/Sshivi21/DSA-questions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Sshivi21/DSA-questions/tree/master/0200-number-of-islands) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Sshivi21/DSA-questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sshivi21/DSA-questions/tree/master/0053-maximum-subarray) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Sshivi21/DSA-questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
